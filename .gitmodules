@@ -1,0 +1,3 @@
+[submodule "friends"]
+	path = friends
+	url = https://github.com/KK-Karan/friends.git
